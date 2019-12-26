@@ -55,10 +55,10 @@
             }
         },
         {
-            "Key": "06ee1a15-e1bc-4ee9-abca-207277eb8816",
+            "Key": "152165b5-0004-49ad-afdb-1dbcd8dea325",
             "Value": {
-                "id": "4f585519-064c-4be5-9379-fc8c830dadc9",
-                "resourcePath": "sprites\/spr_tester\/spr_tester.yy",
+                "id": "6d94d47e-2e0f-4572-a2ec-ef6b8eb670b7",
+                "resourcePath": "sprites\/spr_restart\/spr_restart.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -207,14 +207,6 @@
             }
         },
         {
-            "Key": "77a18256-dddd-43fd-88ae-4c625369048f",
-            "Value": {
-                "id": "e3f8187a-d76b-4788-9001-2f398532f70b",
-                "resourcePath": "sprites\/spr_small_jellyfish\/spr_small_jellyfish.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "793a0663-b9b2-4aff-b5fd-956508898b10",
             "Value": {
                 "id": "dc983998-f04d-436e-9cd9-e3bd1a2a34a2",
@@ -244,6 +236,14 @@
                 "id": "b671b341-25b2-4d62-9601-42c57f7c2b46",
                 "resourcePath": "objects\/obj_credit\/obj_credit.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "875a5a35-4f4c-4c0e-9f8c-fd18967eb0c6",
+            "Value": {
+                "id": "34332870-bb05-4cbc-b7ba-c1934c313d34",
+                "resourcePath": "sprites\/spr_game_over\/spr_game_over.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -300,6 +300,14 @@
                 "id": "667fe92a-c4cb-4afb-a172-58f8a04f7614",
                 "resourcePath": "views\/a32237ff-9b8c-43ee-8090-5e2fc8643d14.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a47f0857-da46-4072-b728-8879881afe9d",
+            "Value": {
+                "id": "973061e3-5885-42b2-9ce1-bf4f8a8fa465",
+                "resourcePath": "objects\/obj_restart\/obj_restart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
