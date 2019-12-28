@@ -55,10 +55,26 @@
             }
         },
         {
+            "Key": "12865cf6-ad58-4a50-b957-73ba461a683c",
+            "Value": {
+                "id": "84567213-1d25-4896-8934-53037511f72b",
+                "resourcePath": "sprites\/spr_play_icon\/spr_play_icon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "152165b5-0004-49ad-afdb-1dbcd8dea325",
             "Value": {
                 "id": "6d94d47e-2e0f-4572-a2ec-ef6b8eb670b7",
                 "resourcePath": "sprites\/spr_restart\/spr_restart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1acd7424-57d5-48d2-a5a6-39ad105dd760",
+            "Value": {
+                "id": "99ea0cbf-8d79-447e-a696-08d3864bddd7",
+                "resourcePath": "sprites\/spr_pause\/spr_pause.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -252,6 +268,14 @@
                 "id": "c34e9d42-33b9-4a24-b3bc-2adea85e368d",
                 "resourcePath": "views\/8d7beccb-598f-4a0c-9be9-8a598e7c07d1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9154bc88-17b7-4482-9414-6d09705bd8ed",
+            "Value": {
+                "id": "b4bc72c4-f2ba-4b71-ae1e-fb591060237d",
+                "resourcePath": "fonts\/fnt_main\/fnt_main.yy",
+                "resourceType": "GMFont"
             }
         },
         {
