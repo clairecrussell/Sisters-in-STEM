@@ -1,6 +1,13 @@
 if(jumping || falling)
 {
-	sprite_index = spr_stand;
+	if (global.bday)
+	{
+		sprite_index = spr_arielle;
+	}
+	else
+	{
+		sprite_index = spr_stand;
+	}
 }
 
 if (ducking)	
@@ -8,11 +15,11 @@ if (ducking)
 {
 	if (global.bday)
 	{
-		sprite_index = spr_duck;
+		sprite_index = spr_arielle
 	}
 	else
 	{
-		sprite_index = spr_arielle;
+		sprite_index = spr_stand;
 	}
 	
 	
@@ -23,7 +30,11 @@ if(!jumping && !falling && !ducking)
 {
 	if (global.bday)
 	{
-		sprite_index = spr_run;
+		sprite_index = spr_arielle;
+	}
+	else
+	{
+		sprite_index = spr_run
 	}
 	
 	image_speed = 2;
