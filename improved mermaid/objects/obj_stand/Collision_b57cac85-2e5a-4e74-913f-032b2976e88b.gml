@@ -15,7 +15,7 @@ if (other.object_index != obj_flounder)
 	}
 
 	if (!instance_exists(obj_restart))
-		instance_create_layer(room_width/2, room_height/2, "Instances", obj_restart);
+		instance_create_layer(room_width/2, room_height - 250, "Instances", obj_restart);
 		
 	with (obj_obstacle)
 	{
