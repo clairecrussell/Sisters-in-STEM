@@ -1,5 +1,5 @@
 grav = 5;
-jspd = 55;
+jspd = 52;
 vspd = 0;
 jumping = false;
 falling = false;

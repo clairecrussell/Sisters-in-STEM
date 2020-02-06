@@ -3,7 +3,7 @@
 randomize();
 var count = irandom_range(1,2);
 
-var i = instance_create_layer(room_width + 100, room_height - 300, "Instances", obj_obstacle);
+var i = instance_create_layer(room_width + 100, room_height - 150, "Instances", obj_obstacle);
 /// room height changes jellyfish height (bigger number = higher up)
 ///i.sprite_index = choose(spr_jellyfish, spr_small_jellyfish);
 switch (i.sprite_index)
