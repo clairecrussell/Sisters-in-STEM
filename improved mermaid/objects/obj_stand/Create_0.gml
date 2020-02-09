@@ -5,3 +5,4 @@ jumping = false;
 falling = false;
 ducking = false;
 termVelocity = 50;
+coins = 0;
