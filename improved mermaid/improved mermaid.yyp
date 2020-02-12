@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "c7b50ada-b9a9-4140-93eb-7e3a4f2b9a31",
+            "Value": {
+                "id": "1d9278f3-6dde-4e67-afab-90a93194acd9",
+                "resourcePath": "sounds\\hurt_sound\\hurt_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cba394f9-eb4e-426c-91a0-55caf47b4c5e",
             "Value": {
                 "id": "63003135-e0f2-4432-a9b9-8f5617c27b3c",

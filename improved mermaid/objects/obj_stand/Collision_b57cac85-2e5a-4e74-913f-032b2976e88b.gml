@@ -4,6 +4,7 @@ if (other.object_index != obj_flounder)
 	grav = 0;
 	global.speedModifier = 0;
 	image_speed = 0;
+    
 	
 	if (global.bday)
 	{
