@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "4b25789a-2ee1-4178-bb9d-20cb829c4150",
+            "Value": {
+                "id": "da6306ef-ea84-46e1-958a-fa34096b7785",
+                "resourcePath": "sounds\\sound_hurt\\sound_hurt.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4ea37570-42c9-4eb1-a216-0d4e2c46e6bf",
             "Value": {
                 "id": "c9988eb2-7b16-4f65-ab33-ae60e0100c21",
@@ -340,6 +348,14 @@
                 "id": "5b96670e-9a7b-41f1-8ab2-f8e127a8e426",
                 "resourcePath": "options\/windowsuap\/options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e8b0453-7057-44f8-8a37-408fb0f395d2",
+            "Value": {
+                "id": "e786575a-e9ba-47cc-88c4-1822e440cd10",
+                "resourcePath": "sounds\\sound_button\\sound_button.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -476,6 +492,14 @@
                 "id": "2fb9e5c6-a979-424f-a360-18d583702328",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "afd414f0-bc0e-4dd2-8d86-bff218904afd",
+            "Value": {
+                "id": "7a7d10f1-720e-44dd-9114-f00f2f5a1084",
+                "resourcePath": "sprites\\spr_diver\\spr_diver.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -644,6 +668,22 @@
                 "id": "b6967cdd-b60b-4427-bbe0-b8788651f434",
                 "resourcePath": "views\/fbb764a0-eba2-4f20-8c06-a44e6bf00beb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe30ce0c-4b03-42e2-83ab-f2b51cea00d9",
+            "Value": {
+                "id": "5f9bff3b-2eb9-4efb-9216-1bb8e7afa51e",
+                "resourcePath": "objects\\obj_bubbles\\obj_bubbles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe9e0687-a3dd-4af5-b9b6-cb77e23f0c1a",
+            "Value": {
+                "id": "720f5463-66a7-494d-b7c1-7591ce930578",
+                "resourcePath": "sprites\\spr_bubbles\\spr_bubbles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -4,6 +4,8 @@ if (other.object_index != obj_flounder)
 	grav = 0;
 	global.speedModifier = 0;
 	image_speed = 0;
+	audio_play_sound(sound_hurt,1,false)
+	instance_destroy(obj_obstacle)
 	
 	if (global.bday)
 	{
