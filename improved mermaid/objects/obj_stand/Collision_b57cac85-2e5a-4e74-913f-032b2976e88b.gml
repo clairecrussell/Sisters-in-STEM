@@ -4,7 +4,8 @@ if (other.object_index != obj_flounder)
 	grav = 0;
 	global.speedModifier = 0;
 	image_speed = 0;
-    
+    audio_play_sound(hurt_sound, 1, false)//plays electric shock sound
+   	instance_destroy(obj_obstacle, true)// destroys object (because audio would loop without)
 	
 	if (global.bday)
 	{

@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "322a8dc8-c5aa-4a4d-8eb9-35ca1107ab51",
+            "Value": {
+                "id": "3dfd2964-ab0d-4af8-b841-07d4f5d661dd",
+                "resourcePath": "sounds\\button_sound\\button_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3656f6a9-dbb6-4d55-afc8-2514c958b026",
             "Value": {
                 "id": "9181679c-837b-4e36-bd23-902188c73f3a",
