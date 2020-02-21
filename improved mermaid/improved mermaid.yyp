@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "46f71fdd-bf79-466e-a348-7a84dac647a3",
+            "Value": {
+                "id": "74e67246-7b60-4a70-b19c-568d8fd6c58d",
+                "resourcePath": "sounds\\sound_monkeyisland\\sound_monkeyisland.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4815e639-c782-4fd0-9159-e8d4eeceb538",
             "Value": {
                 "id": "e8ba3eb8-0675-4612-9a82-e732d4566cfc",
@@ -644,6 +652,14 @@
                 "id": "a3981027-5649-42ed-9d39-01dbf252439a",
                 "resourcePath": "sprites\/spr_home\/spr_home.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8205748-7d89-4eb8-9f5a-b11f8200c3ab",
+            "Value": {
+                "id": "6dd8cce4-8b89-417c-a956-967b3506bc97",
+                "resourcePath": "objects\\obj_monkeyisland\\obj_monkeyisland.yy",
+                "resourceType": "GMObject"
             }
         },
         {
