@@ -1,1 +1,0 @@
-global.select = 0;

@@ -13,3 +13,11 @@ else
 	room_goto(rm_game)
 	instance_activate_all();
 } 
+
+
+if ( global.gameOver)
+{
+	score = 0
+	//test
+	coins = 0
+}

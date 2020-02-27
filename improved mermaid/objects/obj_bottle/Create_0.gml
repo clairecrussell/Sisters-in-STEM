@@ -5,6 +5,7 @@ if (x < -100)
 	
 collected = false;	
 	
+if global.gameOver speed = 0;
 //event_inherited();
 
 //with (obj_bottle){
