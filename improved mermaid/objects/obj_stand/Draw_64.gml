@@ -1,3 +1,4 @@
+//trash collection
 var draw_x = 8;
 var draw_y = 8;
 

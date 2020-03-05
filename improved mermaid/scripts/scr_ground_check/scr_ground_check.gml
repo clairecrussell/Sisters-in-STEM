@@ -1,7 +1,7 @@
 if (duckKey)
 {
 	ducking = true;
-	jumping = false;
+	jumping = 0;
 	falling = true;
 }	
 	
@@ -9,7 +9,7 @@ if (place_meeting(x,y + 1, obj_block))
 {
 	//we're touching the ground 
 	vspd = 0;
-	jumping = false; 
+	jumping = jumpsmax; 
 	falling = false;
 	
 	if (!duckKey)
@@ -19,6 +19,7 @@ if (place_meeting(x,y + 1, obj_block))
 	if (jumpKey || jumpKeyALt) && !duckKey
 	{
 		jumping = true;
+		jumping = jumpsmax
 		vspd = -jspd;
 		
 	}

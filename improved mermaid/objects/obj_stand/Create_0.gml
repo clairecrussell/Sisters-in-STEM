@@ -1,8 +1,11 @@
-grav = 5;
-jspd = 52;
+grav = 1.5;
+jspd = 15;
 vspd = 0;
-jumping = false;
+jumping = 0;
 falling = false;
 ducking = false;
-termVelocity = 50;
+termVelocity = .5;
+
+jumpsmax= 40; 
+
 coins = 0;

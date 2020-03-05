@@ -1,14 +1,14 @@
-if (jumping)
+if (jumpKey || jumpKeyALt)
 {
-	if (vspd < 0)
+	if (jumping > 0)
 	{
-		jumping = true;
+		jumping -= 1;
+		vspd =- jspd;
 	}
 	else
 	{
-		jump = false;
+		//jumping = 0;
+		jumping = false;
 		falling = true;
 	}
 }
-
-claire = 0
