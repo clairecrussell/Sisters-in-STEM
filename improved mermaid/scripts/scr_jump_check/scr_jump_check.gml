@@ -10,3 +10,5 @@ if (jumping)
 		falling = true;
 	}
 }
+
+claire = 0
