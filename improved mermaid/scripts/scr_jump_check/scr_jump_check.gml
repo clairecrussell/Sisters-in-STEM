@@ -1,5 +1,6 @@
 if (jumpKey || jumpKeyALt)
 {
+	if(!place_meeting(x-1,y, obj_wall)){
 	if (jumping > 0)
 	{
 		jumping -= 1;
@@ -11,4 +12,5 @@ if (jumpKey || jumpKeyALt)
 		jumping = false;
 		falling = true;
 	}
+}
 }
