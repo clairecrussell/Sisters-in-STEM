@@ -33,4 +33,4 @@ switch (i.sprite_index)
 
 if (global.gameOver) exit;
 
-alarm[3] = room_speed * random_range(1/global.speedModifier, 3/global.speedModifier);
+alarm[3] = room_speed * random_range(1/global.speedModifier, .5/global.speedModifier);

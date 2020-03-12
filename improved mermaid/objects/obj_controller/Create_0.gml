@@ -5,7 +5,7 @@ alarm[0] = room_speed * 5;
 
 /// start creating flounders
 
-alarm[2] = room_speed * 20;
+alarm[2] = room_speed * 40;
 
 // trash coins
 alarm[3] = room_speed * 1;
